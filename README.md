@@ -50,6 +50,6 @@ Machine learning models don’t understand human words, but they know vectors!
 We'll be count-vectorizing the combined column to covert the textual data to numeric data so that we can process it further.
 
 ### Model Deployment
-Link--->[Movie_Recommantion_system](https://movierecommendationsystem-fbp7kptzxrglpdycfjuype.streamlit.app/)
+Link--->[Movie_Recommantion_system](https://movie-recommendation-system-movie-recommender-ripal.streamlit.app/)
 
 Deployed the model on local server with the help of Streamlit Library. I must say, it was very efficient to use. Then for finally publishing it online, I took the help of Streamlit.
